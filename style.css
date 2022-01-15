@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.grid img{
+    display: flex;
+    flex-wrap: wrap;
+}
+.origami{
+    border-radius: 30px;
+    background-color: #4ef532;
+    width: 310px;
+    font-family: fantasy;
+}
